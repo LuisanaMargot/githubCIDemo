@@ -23,7 +23,7 @@
             "name": "A user opens a saucelabs website",
             "result": {
               "status": "passed",
-              "duration": 1956000000
+              "duration": 1308000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "A user enters the username \"standard_user\"",
             "result": {
               "status": "passed",
-              "duration": 1300000000
+              "duration": 340000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "A user enters the password \"secret_sauce\"",
             "result": {
               "status": "passed",
-              "duration": 657000000
+              "duration": 298000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "A user clicks on the login button",
             "result": {
               "status": "passed",
-              "duration": 592000000
+              "duration": 110000000
             }
           },
           {
@@ -63,7 +63,7 @@
             "name": "the url will contains the /inventory subdirectory",
             "result": {
               "status": "passed",
-              "duration": 33000000
+              "duration": 10000000
             }
           }
         ]
@@ -83,7 +83,7 @@
             "name": "A user opens a saucelabs website",
             "result": {
               "status": "passed",
-              "duration": 897000000
+              "duration": 293000000
             }
           },
           {
@@ -93,7 +93,7 @@
             "name": "A user enters the username \"locked_out_user\"",
             "result": {
               "status": "passed",
-              "duration": 628000000
+              "duration": 322000000
             }
           },
           {
@@ -103,7 +103,7 @@
             "name": "A user enters the password \"secret_sauce\"",
             "result": {
               "status": "passed",
-              "duration": 339000000
+              "duration": 280000000
             }
           },
           {
@@ -113,7 +113,7 @@
             "name": "A user clicks on the login button",
             "result": {
               "status": "passed",
-              "duration": 175000000
+              "duration": 87000000
             }
           },
           {
@@ -123,7 +123,7 @@
             "name": "The error message \"Epic sadface: Sorry, this user has been locked out.\" is displayed",
             "result": {
               "status": "passed",
-              "duration": 19000000
+              "duration": 10000000
             }
           }
         ]
@@ -143,7 +143,7 @@
             "name": "A user opens a saucelabs website",
             "result": {
               "status": "passed",
-              "duration": 178000000
+              "duration": 120000000
             }
           },
           {
@@ -170,7 +170,7 @@
             "name": "A user provides incorrect credentials",
             "result": {
               "status": "passed",
-              "duration": 794000000
+              "duration": 521000000
             }
           },
           {
@@ -180,7 +180,7 @@
             "name": "A user clicks on the login button",
             "result": {
               "status": "passed",
-              "duration": 136000000
+              "duration": 82000000
             }
           },
           {
@@ -190,7 +190,7 @@
             "name": "The error message \"Epic sadface: Username and password do not match any user in this service\" is displayed",
             "result": {
               "status": "passed",
-              "duration": 21000000
+              "duration": 6000000
             }
           }
         ]
@@ -210,7 +210,7 @@
             "name": "A user opens a saucelabs website",
             "result": {
               "status": "passed",
-              "duration": 202000000
+              "duration": 82000000
             }
           },
           {
@@ -237,7 +237,7 @@
             "name": "A user provides incorrect credentials",
             "result": {
               "status": "passed",
-              "duration": 757000000
+              "duration": 577000000
             }
           },
           {
@@ -247,7 +247,7 @@
             "name": "A user clicks on the login button",
             "result": {
               "status": "passed",
-              "duration": 106000000
+              "duration": 85000000
             }
           },
           {
@@ -257,7 +257,7 @@
             "name": "The error message \"Epic sadface: Username and password do not match any user in this service\" is displayed",
             "result": {
               "status": "passed",
-              "duration": 10000000
+              "duration": 5000000
             }
           }
         ]
